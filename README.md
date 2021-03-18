@@ -8,7 +8,7 @@ Compiling and running **spreetail-dictionary** requires the Java Development Kit
 
 ## Compilation/Execution
 
-Extract both source files to a directory of your choice and compile using
+Extract both source files (**runDictionary.java**,**myDictionary.java**) to a directory of your choice and compile using
 
 ```bash
 javac runDictionary.java
